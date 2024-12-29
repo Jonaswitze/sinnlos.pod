@@ -84,6 +84,12 @@
 	background-image:linear-gradient(to bottom,#F452FF,#832BC1);
 }
 
+/* Audible */
+.button-amazon-music {
+	--button-text:#000000;
+	--button-background:#ffa000;
+}
+
 /* Bandcamp */
 .button-bandcamp {
 	--button-text:#ffffff;
@@ -133,6 +139,13 @@
 .button-cash-app {
 	--button-text:#ffffff;
 	background-image:linear-gradient(to bottom,#00d64b,#00c244);
+}
+
+/* Deezer */
+.button-deezer {
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* dev.to */
